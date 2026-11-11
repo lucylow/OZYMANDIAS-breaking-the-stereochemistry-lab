@@ -7,6 +7,7 @@ This project focuses on building an open-source tool that predicts and eliminate
 
 • The Tech Stack: Python, RDKit (cheminformatics library), and PyTorch.
 • What the Software Does:
+
 	• Maps out multi-step reaction mechanisms.
 	• Identifies potential competing side-reactions that introduce structural impurities.
 	• Uses machine learning models trained on open-source datasets (like USPTO) to predict the activation energy (\(E_{a}\)) of side reactions.
