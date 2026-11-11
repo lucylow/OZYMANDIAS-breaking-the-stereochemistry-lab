@@ -5,6 +5,9 @@ The Purity & Impurity Maximizer: Chiral Synthesis Yield Optimizer
 Mastering stereochemistry and isolating specific enantiomers. 
 This project focuses on building an open-source tool that predicts and eliminates unwanted chemical side-products.
 
+• The "Heisenberg" Purity Predictor: A machine learning model or web calculator that simulates chemical yield and purity based on input variables (temperature, reaction time, reagent quality).
+
+
 • The Tech Stack: Python, RDKit (cheminformatics library), and PyTorch.
 • What the Software Does:
 
