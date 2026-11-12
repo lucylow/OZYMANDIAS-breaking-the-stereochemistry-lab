@@ -15,7 +15,12 @@ The central idea is simple:
 
 Two molecules can have the same molecular formula and the same connectivity while differing in the spatial arrangement of their atoms. These differences can produce distinct stereoisomers and are central to organic chemistry, molecular recognition, structural biology, and chemical education.
 
-This README is designed to document the scientific foundations, learning objectives, visual models, technical concepts, and potential architecture of the project.
+![](https://github.com/lucylow/OZYMANDIAS-breaking-the-stereochemistry-lab/blob/main/Screenshot%20(1991).png?raw=true)
+
+![](https://github.com/lucylow/OZYMANDIAS-breaking-the-stereochemistry-lab/blob/main/Screenshot%20(1988).png?raw=true)
+
+![](https://github.com/lucylow/OZYMANDIAS-breaking-the-stereochemistry-lab/blob/main/Screenshot%20(1992).png?raw=true)
+
 
 ---
 
