@@ -1501,4 +1501,3 @@ A beautiful 3D model is not enough. A correct stereochemical label is not enough
 
 ---
 
-*Documentation note: This is a long-form documentation draft. Confirm the repository's actual features, dependencies, installation instructions, license, and implementation details before publishing it as a description of the current software.*
